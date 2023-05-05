@@ -1,0 +1,10 @@
+#ifndef EVALUATION_WRAPPER_GLOBAL_H
+#define EVALUATION_WRAPPER_GLOBAL_H
+
+#ifdef EVALUATION_WRAPPER_EXPORTS
+#define EVALUATION_WRAPPER_DLL_EXPORT __declspec(dllexport)
+#else
+#define EVALUATION_WRAPPER_DLL_EXPORT __declspec(dllimport)
+#endif
+
+#endif // EVALUATION_WRAPPER_GLOBAL_H

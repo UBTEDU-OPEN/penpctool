@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/downloading.gif</file>
+        <file>res/error.gif</file>
+        <file>res/ic_app_30.png</file>
+        <file>res/ic_app_130.png</file>
+        <file>res/ic_checkbox.png</file>
+        <file>res/installiing.gif</file>
+        <file>res/POP_background.png</file>
+        <file>res/success.gif</file>
+        <file>res/btn_disable.png</file>
+        <file>res/btn_enable.png</file>
+        <file>res/close_pop.png</file>
+        <file>res/ic_statusbar_close.png</file>
+        <file>res/ic_statusbar_full screen.png</file>
+        <file>res/ic_statusbar_minimize.png</file>
+        <file>res/ic_statusbar_Reduce screen.png</file>
+        <file>res/flag.png</file>
+        <file>res/btn_grey120.png</file>
+        <file>res/btn_yellow120.png</file>
+    </qresource>
+</RCC>

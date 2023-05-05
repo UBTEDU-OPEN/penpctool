@@ -1,0 +1,12 @@
+#ifndef DEVICECOMMON_GLOBAL_H
+#define DEVICECOMMON_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(DEVICECOMMON_LIBRARY)
+#  define DEVICECOMMON_EXPORT Q_DECL_EXPORT
+#else
+#  define DEVICECOMMON_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // DEVICECOMMON_GLOBAL_H

@@ -1,0 +1,7 @@
+﻿#ifndef COMMONMACRO_H
+#define COMMONMACRO_H
+
+#define STR_MACRO(R) #R
+#define MARCO2STR(R) STR_MACRO(R)
+
+#endif // COMMONMACRO_H
