@@ -5,7 +5,6 @@
 *.stash
 **/build-*
 temp/
-bin/
 Makefile*
 ui_*.h
 **/pack*
